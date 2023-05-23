@@ -1,2 +1,2 @@
 # AcadLib
-My own AutoCAD library; working with the DynALisp application and the Op2 standards
+My own AutoCAD library; working with DynALisp and Op2 standards
